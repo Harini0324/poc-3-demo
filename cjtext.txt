@@ -1,0 +1,247 @@
+﻿
+Criminal justice system in India
+ 
+Introduction
+The system that deals with agencies of government that are responsible for enforcing the law in the country, maintaining peace and harmony and treating criminal conduct is known as the criminal justice system. The aim of the criminal justice system is to ensure that every person who suffers an injury or loss at the hand of others is allowed to present his case and seek justice.
+
+Objectives of a criminal justice system
+The various objectives of the criminal justice system are.
+
+To punish the wrongdoers.
+Prevent the further occurrence of crime in society.
+Regulate the behaviour and conduct of people, especially criminals.
+Provide relief to the victim.
+Treatment of offenders and their rehabilitation.
+To create deterrence in the minds of people at large not to indulge in any criminal activity.
+Need and evolution of criminal justice systems
+According to Hobbes, man is selfish by nature and can go to any extent for pleasure. As said by Bentham, a person avoids pain and demands to seek pleasure. He is usually moved by his instincts and, in earlier times, there were no regulations and limits to control his conduct. With the increasing population and communities, his interests collided with others’ and led to a situation of conflict. Thus, in order to regulate the conduct of a man, a system was needed that could monitor his actions. The development of the criminal justice system is the same as the development of man.
+
+The first stage was when there was no control over his actions and he acted as per his needs and demands. If needed, he could hurt anyone and fulfil his wishes. Then came the second stage, where the territory expanded and the concept of ‘state’ emerged. At this stage, a ruler ruled the kingdom and other people acted on his behalf. This stage, however, could not handle the conflict of interests, and so the king gave strict punishments based on the theory of eye for an eye and body for a body. This stage was full of revenge and hatred. When the king still could not regulate the actions of man and there was chaos in society, a need for a proper system was felt. With the advancement of time and development in society, the monarchy was replaced by the aristocracy, which was further replaced by democracy, and the government was thought to have a system to control the rate of crime in each state; hence, the criminal justice system emerged.
+
+Types of criminal justice systems
+There are two major types of criminal justice systems in the world. These are.
+
+Adversarial system
+Inquisitorial system
+Adversarial system
+This system is followed in common law countries that were once colonies of a particular country. In this system, there is a prosecution advocate and a defence advocate who argue before the court, and the case is decided on the basis of principles of evidence law and procedural laws. The judge decides the case on the basis of arguments between the two counsels and evidence shown in court. This system presumes the accused to be innocent until proven guilty beyond a reasonable doubt.
+
+India follows this system because it was once a colony of the British empire and hence called a common law country. The prosecutor represents the state, as it is presumed that a crime has been committed against the state at large, and so, it is the obligation of the state to provide justice. In this system, both parties are given rights to a fair trial and hearing, and so justice is delayed.
+
+
+Inquisitorial system
+This system is followed in civil law countries. In this system, the judge can himself investigate the matter and decide the case on the basis of investigation and inquiry. The counsel from each side is present, but unlike in the adversarial system, there is no cross-examination of witnesses. The decision and its accuracy depend on the prudence and skills of the judge.
+
+This trial procedure is much faster in this system, and it is not costly. It is less formal, and the determination of justice does not depend on the advocate but on the ability of each particular judge.
+
+Comparisons between the adversarial and inquisitorial system
+Basis of comparison     Adversarial system      Inquisitorial system
+Aim   The aim is to extract the truth by way of arguments between the two counsels from each side on the basis of evidence and witnesses.       The aim is to extract the truth by way of investigation and inquiry by the judge.
+Precedents  These are binding and important in a case.      Precedents do not have much importance in this system.
+Investigation     It is the duty of the police to investigate the matter and find evidence related to it while the judge delivers justice on the basis of the facts and evidence of each case.  Investigation in this system is done by the judge himself, or he may delegate this duty to government officials.
+Trial       There are 2 parties i.e., state and accused. The state is represented by a public prosecutor and the accused by a defence advocate. During the trial, witnesses are examined, cross-examined and then re-examined.      There is no cross-examination and re-examination; witnesses can only be interrogated.
+Evidence    The law related to evidence is more stringent and there is a clear distinction between admissible and inadmissible evidence. Hearsay evidence is an exception to the rules of evidence and is inadmissible.       The law related to evidence is liberal and there is no rule of hearsay.
+Role of victim    A victim cannot be said to be a party to a case as the state takes cognizance of the case.      The victim himself files the case and is the party to it, unlike the adversarial system where the state takes cognizance of the case.
+Courts      In this system, there is a clear hierarchy of courts and they have the power to adjudicate cases.     There are special courts to deal with each matter differently, like administrative courts for administrative matters; constitutional matters are dealt with in different courts, etc.
+Presumption of innocence      An accused is presumed to be innocent until proven guilty, and the prosecution has to prove this beyond a reasonable doubt.   There is no such presumption.
+Overview of the criminal justice system in India
+The aim of the criminal justice system is to punish the criminal and prevent further crimes in future so that people could live peacefully. Criminal law in India consists of the Indian Penal Code, 1860 which defines the various offences along with their punishment and the Criminal Procedure Code, 1973 which gives the procedure of the trial. The evidence is further governed by the Evidence Act, 1872.
+
+The adversarial form of the criminal justice system presumes the accused as innocent until proven guilty beyond a reasonable doubt. It gives the accused a fair chance to present his case to meet the ends of natural justice. The principles of Hinduism and other religions in India value human life and adhere to the principle of providing an equal opportunity to every person to present his side of the story. Thus, the Indian criminal justice system follows an adversarial system and depends on the maxim “let 100 culprits be acquitted and freed, but one innocent person should never be convicted”.
+
+History reveals that every king in India had his own way of regulating crime in his kingdom. Mauryas believed in rigorous punishment and the aim was to create fear in the minds of people, which would stop them from committing further crimes, while Manu recognized various offences like theft and robbery as property-related offences and assault and murder as injuries to the body. This is where the classification started. There was a group of learned counsels in the Gupta dynasty which helped the king settle disputes among people and decide punishment for the wrongdoers. This system fulfilled the purpose of the judiciary, and thus, it can be said that the concept of the judiciary emerged long ago in the country. However, there was no codification of the punishment of offences. Nor did they have any procedure for the trial.
+
+With the advancement of time and technology, offences were codified and the trial procedure was laid down. This made the administration of justice easy and reliable. The present criminal justice system in India was established by the British East India Company during the pre-independence era. However, after independence, it has seen many changes and modifications. Various committees were set up from time to time to recommend changes in the system and suggest measures to control the rate of crime in the country.
+
+Trial procedure
+There are 4 different types of trial procedure, but in the Indian criminal justice system it is laid down in the Criminal Procedure Code, 1973 (CrPC). After the offence is committed and an FIR is lodged in the police station, the steps involved in the trial are as follows.
+
+
+Charges are framed against the accused.
+The prosecution gives the evidence and witnesses.  
+The accused is given a chance to present his case and the statement of the accused is recorded.
+The defence lawyer from the side of the accused gives the evidence.
+Both the lawyers, i.e., the prosecution and the defence have a final argument.
+The last stage, after closing and final arguments, is the judgement in which the accused is either acquitted or convicted.
+The criminal law in India has seven fundamentals which serve as the principles of modern criminal law. These are.
+
+A guilty mind and a guilty act together constitute a crime.
+A mistake of fact is a defence in crime but not a mistake of law.
+The law does not permit ex post facto laws, which means that no one can be punished for an offence that is no longer recognized as the offence.
+Everyone shall be presumed innocent until proven guilty beyond a reasonable doubt.
+An accomplice is treated the same as the accused and given equal punishment under the criminal law.
+The rights of the accused before, during, and after trial are protected. He has various rights like the right to a fair trial, the right to bail, the right to free legal aid and protection against self-incrimination and double jeopardy, which can never be infringed upon by the authorities under the criminal justice system in India.
+Components of criminal justice
+There are four pillars, or components, of the criminal justice system that are explained in detail below. These are.
+
+Police
+Prison
+Prosecution
+Courts  
+Police
+A state has the duty to ensure the safety of its citizens and maintain peace and harmony in society. This duty is fulfilled by the police force in the country internally, and the armed forces protect the state from external threats. The police are one of the important functionaries of the criminal justice system and have the duty to maintain law and order in society. It protects the citizens from violence, oppression, and disorder.
+
+The word police has been derived from the Greek word “politeia” which means “state” or “administration”. The police force has been in existence in one form or the other, even in ancient India. Even Manu emphasised the importance of the police force in the state. The modern police have far more functions than just protecting the citizens. They have to rescue lives, regulate traffic, prevent juvenile delinquency, protect the interests of the weaker sections and investigate crimes.
+
+After the revolt of 1857, the British government in the pre-independent era realised the importance of a strong police system and set up the Police Commission in 1860. As a result of their recommendations, the Indian Police Act, 1861 was enacted. Later, Lord Curzon, in 1902, set up another Commission to suggest reforms to the Act. The Act has 3 characteristics.
+
+The police force is maintained and controlled by the states of the Indian Union.
+It is horizontally stratified into cadres.
+There is a vertical division of armed and unarmed branches in the police force in each state.
+The various functions of the police include.
+
+Patrolling and surveillance
+Making arrests
+Lodging FIRs
+Releasing the accused on bail
+Investigation
+Interrogation  
+Need for reform
+The modern police force has many shortcomings that need to be corrected to ensure proper administration of the criminal justice system in India. The reasons for reforming the police system are.
+
+There have been many instances of custodial rapes and deaths. There is a need to make the police force transparent and accountable for their work.
+The political parties and leaders have started using the police force for their benefit.
+There is a lack of staff and female police officers because of which they are unable to fulfil their duties.
+The police system in India is lacking in terms of infrastructure and weapons. They must be provided with modern technology for speedy investigation and interrogation.  
+There is a trust deficit among the people regarding the police because of corruption and a lack of seriousness.
+All these criticisms make us feel that there is a need for reforming the police system in the country.
+
+Reforms
+In order to reform the police, various committees have been set up from time to time that have recommended certain measures and suggestions. These are.
+
+National Police Commission (NPC)
+It was set up in 1977 and has given recommendations like.
+
+ There must be a judicial enquiry in cases of custodial death or rapes.
+Police must be made more sensitive towards marginalised sections of society.
+It recommended replacing the Police Act of 1861 with a new Act.
+Malimath Committee
+It recommended that there is a need to have a separate police force for maintaining law and order.
+A national security commission and a state security commission should be established at the central and state level respectively.
+It recommended extending the period of police custody from 30 days to 90 days in the case of serious offences.
+Guidelines by the Supreme Court
+The Hon’ble Supreme Court in the case of Pratap Singh v. Union of India (2006) has given guidelines suggesting reforms in the police system. These are.
+
+A state security commission must be established in each state to keep a check on the work of the police and observe that there is no influence.
+Appointment of DGP must be done on a transparent merit-based process.
+The tenure of police officials must be at least 2 years.
+There should be a separation between the functions of law and order and investigation.
+Set up a Police Establishment Board for matters related to promotions, transfers etc.
+Police complaints authorities must be established in each district.
+The National Security Commission set up at the central level will be responsible for selecting a panel to select the candidates and officers in the police force.
+Prison
+A prison is a place where offenders are kept if they are punished with a sentence of some years or imprisonment for life. The prisoners live in an isolated place and their movement is restricted. The prison system in India is based on the British model of prison. Prisons have been in existence in India from the earliest times. The object was to deter the offenders from repeating the crime. However, the condition of the prison has deteriorated. Prisoners are treated badly and subjected to inhumane treatment. Thus, the Prison Enquiry Committee was set up in 1836, which recommended the abolition of the practice of prisoners working on roads.
+
+The second Jail Enquiry Committee in 1862 emphasised the unsanitary conditions of the prisons, leading to the deaths of several prisoners due to illness and unhealthy environments. It stressed the need for proper food and clothing for prisoners and their medical treatment. The third committee also suggested certain recommendations, and as a result of these recommendations, the Prison Act, 1894, was enacted.
+
+Need for reform
+The Prisons Act of 1894 tried to bring uniformity to the workings of prisons in the country. It laid down that the provinces must have their own rules to regulate the administration of prisons. The Act classified the prisoners, and the conditions for every prisoner were different. It also abolished the punishment of whipping. Despite these changes, there was no improvement in prison conditions. The Indian Jail Reforms Committee in 1919-20 suggested measures to reform the prisons. It suggested fixing the capacity of each jail. After independence, the Constitution of India placed “jail” along with “police and law and order” in the State list under the Seventh Schedule. Unfortunately, no priority was given to the administration of prisons.
+
+The Hon’ble Supreme Court in the case of Rama Murthy v. State of Karnataka (1997), identified specific problems and issues faced by prisons and prisoners in India. These issues made the government realise that there was a need to reform jails and prisons in the country. The issues are as follows.
+
+Overcrowdedness in the jail
+Delay in trial
+Inhuman and ill-treatment of prisoners
+Neglected health and hygiene
+Deficiency in communication
+Streamlined jail visits
+Need to manage open air prisons
+Reforms
+Various committees have been set up by the government from time to time to report on the conditions of prisons in the country and suggest measures to improve the deteriorating conditions.
+
+All India Jail Reforms Committee (1980)
+Also called the Mulla Committee, it was headed by Justice A.N. Mulla.
+It suggested making adequate arrangements for food, clothing, sanitation etc in prisons.
+It emphasised the recruitment of proper and trained staff for the administration of jails and, for this purpose, a correctional service should be established.
+There is a need to focus on rehabilitation and probation laws.
+It recommended allowing the media to visit jails.
+It said that the government must provide funds and resources for prison reform.
+A committee headed by Krishnan Iyer (1988)
+It recommended the appointment of women staff in the police for handling women and child offenders.
+It is believed that women could be employed in non-combatant roles that require patience and endurance.
+Prison rules
+State governments have made guidelines and prison rules for the smooth administration of prisons. These are.
+
+A register containing the details of every prisoner must be maintained in every jail.
+No person will be kept in prison without a valid commitment order.
+Prisoners will be classified based on age, sex, criminal record, etc. and will be kept in separate institutions. For example, juveniles will not be kept in jail but sent to juvenile homes, undertrial prisoners must be separated etc.
+Food, water, clothing, and medical treatment should be given to each prisoner.
+Women in prison must have prenatal and postnatal care and treatment.
+Prisoners must be allowed to meet their friends and family at regular intervals.
+There must be periodic inspections of jails.
+Judicial pronouncements
+It was held in S.P. Anand v. State of Madhya Pradesh (2007) that prisoners have basic rights to a healthy life even though their right to liberty and free movement is restricted.
+In the case of State of Gujarat v. High Court of Gujarat (1988), it was held that reasonable wages must be paid to prisoners in jail for the work or labour they have done.
+Hon’ble Supreme Court in the case of R.D. Upadhyay v. State of Andhra Pradesh (2006) observed that the death of women or their suicide during their prison term is a serious concern and jail authorities must prevent such instances by improving the conditions and health care facilities.
+It was held in Hussainara Khatoon v. Home Secretary, State of Bihar (1979) that keeping the undertrials in jail for a longer period than their punishment is a clear violation of their fundamental rights guaranteed under Article 21 of the Constitution. It is said that the State cannot avoid its duty of “speedy trial”.
+The practice of handcuffing is inhuman, unreasonable, and harsh, and thus, an accused person must not be handcuffed in the first instance. The police authorities must take the approval of the judge before handcuffing the accused as stated in the case of Prem Shankar Shukla v. Delhi Administration (1980).
+Prosecution
+A crime is always committed against society at large and not against a particular person. There is a victim who suffers at the hands of a criminal, but it creates fear in the minds of people at large and thus, the state takes cognizance of the case. Moreover, it is the duty of the state to maintain law and order in society, and so whenever a crime leads to disturbance in the law and order, the state becomes the party and is represented by a public prosecutor.
+
+A public prosecutor is defined under Section 2(u) of the Criminal Procedure Code, 1973 and is considered an agent of the state representing the interests of common people in the criminal justice system. The procedure for the appointment of public prosecutors is given under Section 24 of the CrPC and states that they are appointed by the state government in district courts and by the central government in high courts. The following are the functions of a public prosecutor.
+
+They have a duty to maintain the file of the case.
+They appear in court and argue on behalf of the victim representing the state.
+They ensure that aggravated punishment is given to the accused.
+They should not use any unfair means or defend the accused.
+They have to record the evidence and cross-examine the witnesses.
+Courts
+The criminal justice system in India has a long and glorious history. It has fulfilled its purpose of delivering justice to the victim with the help of laws and fair trials in courts. Courts have played a major role in the administration of criminal justice in the country and have made the justice system strong through various pronouncements and judgements. The foregoing criminal justice system reveals that the role of the court as the pillar of the criminal justice system is of much importance.
+
+The purpose of a criminal trial is to provide fair and impartial justice to the victim. In order to achieve this purpose, there is a clear hierarchy of criminal courts in the country. It consists of the Supreme Court as the apex court; the High Court in every state; the Sessions courts in each district; and the Courts of Judicial Magistrate. The courts have delivered landmark judgements from time to time to enhance the criminal justice system and overcome the lacunas. In the case of Lalita Kumari v. State of Uttarpradesh (2014), the Court made it mandatory for the police officers to lodge the FIR, while in the case of Shyara Bano v. Union of India (2017), the Court has declared that the practice of triple talaq is unconstitutional and punishable. Similarly, in the case of Vishaka and others v. State of Rajasthan (1997), the Court has given guidlines for sexual harassment at workplace as a result of which an amendment was done to criminal laws in 2013. In this way, courts are working to develop the criminal justice system as per the needs of society.
+
+Need for reforms in the criminal justice system in India
+Pendency of cases
+There are many pending cases in the court which result in delayed justice. According to a maxim, “justice delayed is justice denied”. The reports for 2022 reveal that almost 4.7 crore cases are pending in the courts. Thus, there is a need to reform the laws and the criminal justice system must be made more concerned with speedy trial and justice.
+
+Undertrial prisoners
+Prisons in the country are filled with undertrial prisoners, leading to the problem of overcrowded jails. Reports from 2020 reveal that 70% of the population in prison consists of under-trial prisoners. This is also an infringement of their fundamental right to life under Article 21 of the Constitution.
+
+Lack of judges
+The courts in India suffer from a shortage of judges, which puts pressure on the judiciary as there is an increase in the number of cases pending in the courts. According to the statistics and reports, there are 19 judges for approximately 10 lakh people in the country, revealing a huge shortage.
+
+Ineffectiveness of the justice system
+Due to corruption and political influence on the judiciary, the criminal justice system has become ineffective. This leads to a situation where an accused easily escapes from their liability and an innocent person has to spend their life in prison.
+
+Issues within the police force
+It is the duty of the police to investigate the matter and find evidence to extract the truth. However, at times, the officers misuse their powers to harass and torture the citizens. Thus, there is a need to reform the criminal justice system in the country.
+
+Reforms
+The above issues and loopholes in the criminal justice system in India reveal that it is the need of the hour to reform the criminal justice system in the country. As a consequence of this, the Malimath Committee gave its recommendations in 2004.
+
+Recommendations of the Malimath Committee
+The committee made various recommendations on criminal law and the criminal justice system. Some of its recommendations are as follows.
+
+It suggested changing the adversarial form of the criminal justice system to an inquisitorial system for speedy trials and to deal with the issue of pending cases.
+It recommended the right to silence for the accused against self-harming statements under Article 20(3) of the Constitution.
+It is felt that the presumption of innocence of an accused puts an extraordinary and unreasonable burden on the prosecution to prove the charges, which leads to a delay in justice.
+The committee made recommendations for compensation to the victim.
+It also made suggestions to reform the police system in the country and make it accountable and transparent.
+It stressed the appointment of public prosecutors through competitive exams.
+It suggested that every higher court must have judges specialising in criminal law.
+It recommended to re-classify the offences as socio-economic offences, correctional code etc.
+A Presidential Commission must be established in order to inspect the criminal justice system at regular intervals.
+Conclusion
+The criminal justice system is a system that controls the functioning of institutions like the police, prisons, courts, etc., that work towards granting justice to the victim. It is the duty of the state to maintain peace and harmony in society, and this can only be achieved with the proper implementation of laws and the effective criminal justice system of a country. The criminal laws in India were majorly enacted by the British East India Company, but after a lot of amendments were made to the laws.
+
+With the advancement of time and technology, new crimes like organised crimes, white collar crimes, cyber crimes, etc. are increasing, and the government feels the need to reform the justice system to deal with such offences. As a result of this, various committees set up by the government gave various suggestions and recommendations. But still, the condition has not improved. Courts are still suffering from pressure due to the pendency of cases, which is a result of the shortage of judges. It is perceived by the public that the police force is under the influence of politicians, and corruption has made them ineffective in fulfilling their duties. Instances of custodial rapes and deaths are increasing day by day. This creates fear in the minds of the public. Prisons witness a situation of overcrowding and prisoners suffer from inhuman and degrading treatment. The recommendations of various committees are on paper but not implemented properly. There is a need to solve all the issues and fill the gaps in the criminal justice system in India in order to provide fair justice.
+
+Frequently asked questions (FAQs)
+What are the advantages of a criminal justice system?
+The advantages of the criminal justice system in a country are.
+
+It helps in maintaining law and order.
+There is uniformity in the laws and procedures related to criminal matters throughout the country.
+It protects the accused from torture and harassment by the public and gives him various rights like the right to a fair trial, the right to free legal aid, the right against self incrimination etc.
+The impartial judiciary in the justice system helps in the impartial delivery of justice.
+What are the disadvantages of an adversarial system?
+It leads to the delay of justice due to stringent and complex processes.
+The process of trial in this system is time-consuming and costly.
+Many offenders escape liability and punishment due to various rights given to them.
+The presumption of innocence until proven guilty puts an unreasonable burden on the prosecution.  
+Judges have to rely on the evidence and investigation of the police, which may be tampered with and influenced.
+What reforms have been undertaken by the government to make the criminal justice system in India more effective?
+Various recommendations from various committees have been accepted by the government, like trial through video-conferencing and amendments have been made to the laws. Most of the laws that were of no use and created hindrances in the administration of justice have been repealed.
+Lok Adalats, fast track courts and special courts have been established for speedy justice.
+Parliament enacted the Legal Service Authority Act, 1987 to provide free legal aid to poor and illiterate people.
+The scheme of “Modernisation of police forces” has been implemented by the government to make the police more sensitive and sincere towards their obligations and duties.
