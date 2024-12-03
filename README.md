@@ -1,6 +1,6 @@
 # poc-3-demo
 
-## 1. Make sure you have python already installed on vscode
+## 1. Make sure you have Python (3.10 or the other newer versions) already installed on vscode
 
 ## 2. Create a virtual environment
 
